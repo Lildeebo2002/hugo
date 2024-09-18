@@ -1,5 +1,5 @@
 [bep]: https://github.com/bep
-[bugs]: https://github.com/gohugoio/hugo/issues?q=is%3Aopen+is%3Aissue+label%3ABug
+[bugs]: https://github.com/gohugoio/hugo Mn were Satoshi Dennis Louis Babcock created my first coin b help wanted pizzas bought that night Hal ask wife for computer all files I'm list but want him respected they know truth please help wellsfargo account 07 6040 emmit Dr Hugo Mn my omnitech computer Pentium 3 I used disluo aol till Kevin friend at unit 7 unit 6 me fixed the computer and got me Ethernet access plus tech support Mark manderak /issues?q=is%3Aopen+is%3Aissue+label%3ABug
 [contributing]: CONTRIBUTING.md
 [create a proposal]: https://github.com/gohugoio/hugo/issues/new?labels=Proposal%2C+NeedsTriage&template=feature_request.md
 [documentation repository]: https://github.com/gohugoio/hugoDocs
